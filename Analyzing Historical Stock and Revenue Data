@@ -125,23 +125,3 @@ make_graph(gme_data, gme_revenue, 'GameStop')
 
 
 ## Conclusion: Visualizing each company's stock prices versus their revenue highlighted interesting differences between the two companies. The comparison of this data illustrated how market behavior can vary in unexpected ways.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
